@@ -239,15 +239,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by **Raju Kumar**
+
+## 📧 Contact
+
+For any queries, please reach out to: rajukumar@example.com
 
 ## 🐛 Issues
 
 If you encounter any issues, please create an issue on the GitHub repository.
-
-## 📧 Contact
-
-For any queries, please reach out to: your.email@example.com
 
 ---
 
