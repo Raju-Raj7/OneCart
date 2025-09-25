@@ -4,7 +4,7 @@ A modern full-stack e-commerce platform built with React, Node.js, and MongoDB, 
 
 ## 🚀 Live Demo
 
-- **Customer App**: https://onecart-frontend-rle6.onrender.com/login
+- **Customer App**: https://onecart-frontend-rle6.onrender.com/
 - **Admin Panel**: https://onecart-admin-bn1w.onrender.com/
 
 ## 📋 Table of Contents
