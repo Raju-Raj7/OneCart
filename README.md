@@ -243,7 +243,7 @@ Created with ❤️ by **Raju Kumar**
 
 ## 📧 Contact
 
-For any queries, please reach out to: rajukumar@example.com
+For any queries, please reach out to: kumarraju725046@gmail.com
 
 ## 🐛 Issues
 
